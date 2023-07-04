@@ -1,6 +1,6 @@
-# Jogo-de-Xadrez
-Jogo de Xadrez no terminal, porém eficiente!
+# Chess Game
+Terminal Chess Game, but efficient!
 
-Jogo completamente escrito em Java aplicando diversos tipos de conhecimentos da linguagem.
+Game completely written in Java applying various kinds of knowledge of the language.
 
-Nativamente, o jogo não funciona no cmd, podendo ser rodado no terminal Linux, Git Bash entre outros
+Natively, the game does not run in cmd, but can be run in Linux Terminal, Git Bash and others.
